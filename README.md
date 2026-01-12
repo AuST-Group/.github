@@ -1,6 +1,6 @@
 <!-- Org Profile README for AuST Group -->
 <p align="center">
-  <img src="./AuST-Group_Logo_MAIN.png" alt="AuST Group Logo" width="280d Standard 
+  <img src="./AuST-Group_Logo_MAIN.png" width="280d Standard 
 
 ---
 

@@ -1,8 +1,8 @@
-
 <!-- Org Profile README for AuST Group -->
 <p align="center">
-  <img src="./AuST-Group_Logo_MAIN.png
-# AuST Group — The Medical Device Gold Standard
+  <img src="./AuST-Group_Logo_MAIN.png" alt="AuST Group Logo" width="280d Standard 
+
+---
 
 **AuST Group** designs, develops, and manufactures innovative, **minimally invasive medical devices**, with deep specialization in **cardiovascular catheters**. We partner from **clinical need to commercialization**, blending rapid design iteration with **robust quality systems** and **US/EU regulatory expertise**. 
 

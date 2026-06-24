@@ -28,13 +28,6 @@
 
 ---
 
-## Featured Repositories
-
-> 
-- **`moodle`** – Our LMS. 
-
----
-
 ## Contributing
 
 We welcome contributions aligned with our **quality and regulatory commitments**.
